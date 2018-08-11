@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import App from './App.vue'
-import './assets/sketch.js'
+import sketch from './assets/project/sketch.js'
 
 new Vue({
   el: '#app',
